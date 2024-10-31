@@ -3,7 +3,7 @@
 </div>
 
 # 💫About Me :
-I am a Python Developer, learning Golang and aiming to become a Software Engineer. My expertise in Python Web development and Bot programming is high so I will be moving on to learn more languages and tools.
+I am a Python Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">, learning Golang and aiming to become a Software Engineer. My expertise in Python Web development and Bot programming is high so I will be moving on to learn more languages and tools.
 
 ## 🌐Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/blacac3) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/aaron-ezeala) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/UCsOK_dYLP6cntK09jg_BJrg) 

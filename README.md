@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Aaron 👋</h1>
-<h3 align="center">Backend Developer | Web Developer | AI Enthusiast | Car Enthusiasts</h3>
+<h3 align="center">Backend Developer | Web Developer | AI Enthusiast | Car Enthusiast</h3>
 
 <p align="center">
   <a href="https://github.com/blacac3">

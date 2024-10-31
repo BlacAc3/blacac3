@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+
 # 💫About Me :
 I am a Python Developer, learning Golang and aiming to become a Software Engineer. My expertise in Python Web development and Bot programming is high so I will be moving on to learn more languages and tools.
 

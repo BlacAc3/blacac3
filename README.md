@@ -12,7 +12,7 @@
 
 ## 👨‍💻 About Me
 I’m a backend developer passionate about creating efficient and scalable systems. My expertise spans across:
-- **Backend Development** with **Django**, **FastAPI**, and **Python** 🐍
+- **Backend Development** with **Django**, **FastAPI**, **Go**,  and **Python** 🐍
 - **Frontend Knowledge** in **JavaScript** for full-stack flexibility 💻
 - **Cloud & DevOps** with **Docker**, **GCS**, and **Firebase** ☁️
 - **Database Management** using **MongoDB** and **SQL**
@@ -72,17 +72,8 @@ I’m a backend developer passionate about creating efficient and scalable syste
 <br/>
 <br/>
 
-## 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark" alt="yourusername" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=dark" alt="yourusername" />
-</p>
 
-<br/>
-<br/>
 
 ## 🌐Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/blacac3) <br/> 

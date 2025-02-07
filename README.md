@@ -12,7 +12,7 @@
 
 ## 👨‍💻 About Me
 I’m a backend developer passionate about creating efficient and scalable systems. My expertise spans across:
-- **Backend Development** with **Django**, **FastAPI**, **Go**,  and **Python** 🐍
+- **Backend Development** with **Django**, **FastAPI**, **NodeJS**, **ExpressJS**, **Go**, **Javascript** and **Python**
 - **Frontend Knowledge** in **JavaScript** for full-stack flexibility 💻
 - **Cloud & DevOps** with **Docker**, **GCS**, and **Firebase** ☁️
 - **Database Management** using **MongoDB** and **SQL**
